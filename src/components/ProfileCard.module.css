@@ -1,0 +1,31 @@
+.card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background-color: white;
+  width: 250px;
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.description {
+  color: #666;
+  font-size: 0.95rem;
+  margin-bottom: 15px;
+}
